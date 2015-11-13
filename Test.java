@@ -16,3 +16,6 @@ finally
        }  
     }
 }
+
+/*output:
+finally block is executed*/
