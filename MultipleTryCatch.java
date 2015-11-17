@@ -23,6 +23,7 @@ public class MultipleTryCatch
 		   }  
 		  
  System.out.println("rest of the code...");  
+  System.out.println("end of the code..."); 
    }  
 		  
 }
