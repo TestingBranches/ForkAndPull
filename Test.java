@@ -12,8 +12,8 @@ public class FinallyEx
          }  
 finally
        {
-        System.out.println("Welcome");
-        System.out.println("finally block is executed");
+      /*  System.out.println("Welcome");
+        System.out.println("finally block is executed");*/
        }  
     }
 }
