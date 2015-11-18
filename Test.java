@@ -12,7 +12,7 @@ public class FinallyEx
          }  
 finally
        {
-        System.out.println("changed as owner");
+        System.out.println("member");
       /*  System.out.println("Welcome");
         System.out.println("finally block is executed");*/
        }  
